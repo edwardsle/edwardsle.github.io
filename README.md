@@ -6,12 +6,7 @@
 # Projects
 ## Master Degree Final Project
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias)
-- Languages:
-  1. NodeJS
-  2. PHP
-  3. HTML
-  4. CSS
-  5. JavaScript 
+- Languages: `NodeJS PHP HTML CSS JavaScript`
 ## Reddit Clone
 [Github Source](https://github.com/edwardsle/reddit)
 ## Movie DB
