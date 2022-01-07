@@ -3,4 +3,4 @@
 - Github: https://edwardsle.github.io
 - Linkedin: https://linkedin.com/in/edwardsle
 
-### Porjects
+### Projects
