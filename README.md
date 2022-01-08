@@ -9,7 +9,7 @@
 ## Master Degree Final Project
 ---
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias)
-- Languages: `NodeJS PHP HTML CSS JavaScript`
+- Languages: ==NodeJS== ==PHP== ==HTML== ==CSS== ==JavaScript==
 ## Reddit Clone
 ---
 [Github Source](https://github.com/edwardsle/reddit)
