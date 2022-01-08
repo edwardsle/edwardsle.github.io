@@ -10,16 +10,34 @@
 ---
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias)
 - Languages: `NodeJS` `PHP` `HTML` `CSS` `JavaScript`
+- - Frameworks: `SocketIO` `ExpressJS` `Boostrap5`
 ## Reddit Clone
 ---
-[Github Source](https://github.com/edwardsle/reddit)
+- [Github Source](https://github.com/edwardsle/reddit)
+- Languages: `NodeJS`
+- Frameworks: `ReactJS` `ExpressJS` `Boostrap4`
 ## Movie DB
-[Github Source](https://github.com/edwardsle/moviedb)
+---
+- [Github Source](https://github.com/edwardsle/moviedb)
+- Languages: `NodeJS`
+- Frameworks: `ReactJS` `ExpressJS` `MDB`
 ## Fabflix
-[Github Source](https://github.com/edwardsle/Fabflix)
+---
+- [Github Source](https://github.com/edwardsle/Fabflix)
+- Languages: `Java` `HTML` `CSS`
+- Frameworks: `Bootstrap4`
 ## Genetic Algorithm Half Cheetah Mujoco
-[Github Source](https://github.com/edwardsle/Genetic-Algorithm)
+---
+- [Github Source](https://github.com/edwardsle/Genetic-Algorithm)
+- Languages: `Python`
+- Frameworks: `PyTorch`
 ## Image Denoise
-[Github Source](https://github.com/edwardsle/imagedenoise)
+---
+- [Github Source](https://github.com/edwardsle/imagedenoise)
+- Languages: `Python`
+- Frameworks: `PyTorch`
 ## Search Engine
-[Github Source](https://github.com/edwardsle/Search-Engine)
+---
+- [Github Source](https://github.com/edwardsle/Search-Engine)
+- Languages: `Java` `HTML` `CSS`
+- Frameworks: `Bootstrap4`
