@@ -10,13 +10,25 @@
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias).
 - Languages: `NodeJS` `PHP` `HTML` `CSS` `JavaScript`.
 - Frameworks: `SocketIO` `ExpressJS` `Boostrap5`.
-This is first test
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 ---
 ## Reddit Clone
 - [Github Source](https://github.com/edwardsle/reddit).
 - Languages: `NodeJS`.
 - Frameworks: `ReactJS` `ExpressJS` `Boostrap4`.
-This is first test.
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 ---
 ## Movie DB
 - [Github Source](https://github.com/edwardsle/moviedb)
