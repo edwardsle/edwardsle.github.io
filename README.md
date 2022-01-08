@@ -2,7 +2,7 @@
 - Portfolio: [edwardsle.com](https://edwardsle.com)
 - Github: [~edwardsle](https://edwardsle.github.io)
 - Linkedin: [~edwardsle](https://linkedin.com/in/edwardsle)
-
+<hr/>
 # Projects
 ## Master Degree Final Project
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias).
@@ -14,7 +14,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+<hr/>
 ## Reddit Clone
 - [Github Source](https://github.com/edwardsle/reddit).
 - Languages: `NodeJS`.
@@ -25,7 +25,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+
 ## Movie DB
 - [Github Source](https://github.com/edwardsle/moviedb)
 - Languages: `NodeJS`
@@ -36,7 +36,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+
 ## Fabflix
 - [Github Source](https://github.com/edwardsle/Fabflix)
 - Languages: `Java` `HTML` `CSS`
@@ -47,7 +47,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+
 ## Genetic Algorithm Half Cheetah Mujoco
 - [Github Source](https://github.com/edwardsle/Genetic-Algorithm)
 - Languages: `Python`
@@ -58,7 +58,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+
 ## Image Denoise
 - [Github Source](https://github.com/edwardsle/imagedenoise)
 - Languages: `Python`
@@ -69,7 +69,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+
 ## Search Engine
 - [Github Source](https://github.com/edwardsle/Search-Engine)
 - Languages: `Java` `HTML` `CSS`
@@ -80,4 +80,4 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
----
+
