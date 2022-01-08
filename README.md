@@ -7,37 +7,36 @@
 # Projects
 ---
 ## Master Degree Final Project
----
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias)
 - Languages: `NodeJS` `PHP` `HTML` `CSS` `JavaScript`
-- - Frameworks: `SocketIO` `ExpressJS` `Boostrap5`
-## Reddit Clone
+- Frameworks: `SocketIO` `ExpressJS` `Boostrap5`
 ---
+## Reddit Clone
 - [Github Source](https://github.com/edwardsle/reddit)
 - Languages: `NodeJS`
 - Frameworks: `ReactJS` `ExpressJS` `Boostrap4`
-## Movie DB
 ---
+## Movie DB
 - [Github Source](https://github.com/edwardsle/moviedb)
 - Languages: `NodeJS`
 - Frameworks: `ReactJS` `ExpressJS` `MDB`
-## Fabflix
 ---
+## Fabflix
 - [Github Source](https://github.com/edwardsle/Fabflix)
 - Languages: `Java` `HTML` `CSS`
 - Frameworks: `Bootstrap4`
-## Genetic Algorithm Half Cheetah Mujoco
 ---
+## Genetic Algorithm Half Cheetah Mujoco
 - [Github Source](https://github.com/edwardsle/Genetic-Algorithm)
 - Languages: `Python`
 - Frameworks: `PyTorch`
-## Image Denoise
 ---
+## Image Denoise
 - [Github Source](https://github.com/edwardsle/imagedenoise)
 - Languages: `Python`
 - Frameworks: `PyTorch`
-## Search Engine
 ---
+## Search Engine
 - [Github Source](https://github.com/edwardsle/Search-Engine)
 - Languages: `Java` `HTML` `CSS`
 - Frameworks: `Bootstrap4`
