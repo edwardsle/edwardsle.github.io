@@ -25,7 +25,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-
+<hr/>
 ## Movie DB
 - [Github Source](https://github.com/edwardsle/moviedb)
 - Languages: `NodeJS`
@@ -36,7 +36,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-
+<hr/>
 ## Fabflix
 - [Github Source](https://github.com/edwardsle/Fabflix)
 - Languages: `Java` `HTML` `CSS`
@@ -47,7 +47,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-
+<hr/>
 ## Genetic Algorithm Half Cheetah Mujoco
 - [Github Source](https://github.com/edwardsle/Genetic-Algorithm)
 - Languages: `Python`
@@ -58,7 +58,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-
+<hr/>
 ## Image Denoise
 - [Github Source](https://github.com/edwardsle/imagedenoise)
 - Languages: `Python`
@@ -69,7 +69,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-
+<hr/>
 ## Search Engine
 - [Github Source](https://github.com/edwardsle/Search-Engine)
 - Languages: `Java` `HTML` `CSS`
@@ -80,4 +80,4 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-
+<hr/>
