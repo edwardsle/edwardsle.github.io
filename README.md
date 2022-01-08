@@ -7,16 +7,16 @@
 # Projects
 ---
 ## Master Degree Final Project
-- [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias)
-- Languages: `NodeJS` `PHP` `HTML` `CSS` `JavaScript`
-- Frameworks: `SocketIO` `ExpressJS` `Boostrap5`
-⋅⋅⋅This is first test
+- [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias).
+- Languages: `NodeJS` `PHP` `HTML` `CSS` `JavaScript`.
+- Frameworks: `SocketIO` `ExpressJS` `Boostrap5`.
+This is first test
 ---
 ## Reddit Clone
-- [Github Source](https://github.com/edwardsle/reddit)
-- Languages: `NodeJS`
-- Frameworks: `ReactJS` `ExpressJS` `Boostrap4`
-⋅⋅⋅This is first test
+- [Github Source](https://github.com/edwardsle/reddit).
+- Languages: `NodeJS`.
+- Frameworks: `ReactJS` `ExpressJS` `Boostrap4`.
+This is first test.
 ---
 ## Movie DB
 - [Github Source](https://github.com/edwardsle/moviedb)
