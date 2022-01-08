@@ -2,7 +2,7 @@
 - Portfolio: [edwardsle.com](https://edwardsle.com)
 - Github: [~edwardsle](https://edwardsle.github.io)
 - Linkedin: [~edwardsle](https://linkedin.com/in/edwardsle)
-<hr/>
+<hr>
 # Projects
 ## Master Degree Final Project
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias).
@@ -14,7 +14,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-<hr/>
+<hr>
 ## Reddit Clone
 - [Github Source](https://github.com/edwardsle/reddit).
 - Languages: `NodeJS`.
@@ -25,7 +25,7 @@
   <dt>Result</dt>
   <dd>...</dd>
 </dl>
-<hr/>
+<hr>
 ## Movie DB
 - [Github Source](https://github.com/edwardsle/moviedb)
 - Languages: `NodeJS`
