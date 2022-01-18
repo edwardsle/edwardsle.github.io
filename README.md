@@ -4,7 +4,7 @@
 - Linkedin: [~edwardsle](https://linkedin.com/in/edwardsle)
 
 # Projects
-## Angular: Task Tracker
+## Learning Angular: Task Tracker
 - [Github Source](https://github.com/edwardsle/angular__task-tracker).
 - Languages: `TypeScript`
 - Frameworks: `Angular`
