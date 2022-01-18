@@ -4,6 +4,16 @@
 - Linkedin: [~edwardsle](https://linkedin.com/in/edwardsle)
 
 # Projects
+## Angular: Task Tracker
+- [Github Source](https://github.com/edwardsle/angular__task-tracker).
+- Languages: `TypeScript`
+- Frameworks: `Angular`
+<dl>
+  <dt>Description</dt>
+  <dd>Learning Angular</dd>
+  <dt>Result</dt>
+  <dd>...</dd>
+</dl>
 ## Master Degree Final Project
 - [Github Source](https://github.com/edwardsle/IVR-for-Pizzerias).
 - Languages: `NodeJS` `PHP` `HTML` `CSS` `JavaScript`
